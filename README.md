@@ -12,12 +12,10 @@ Interactive Power BI dashboard for analyzing customer credit card data, loan ins
 
 ## Tools Used
 - Power BI
-- DAX
-- Data Visualization
 
 ## Dashboard Preview
 
-![Dashboard](Credit_report_ss.webp)
+![Dashboard](Credit_report_ss.png)
 
 ## Note
 Original dataset files are unavailable because this project was created earlier.
